@@ -23,4 +23,4 @@ async def health():
 
 @app.get("/ready")
 async def ready():
-    return {"status": "ready"}
+    return {"status": "oughsdoigsusdobi"}
